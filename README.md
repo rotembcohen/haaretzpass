@@ -12,7 +12,7 @@ Highlights:
 
 Instructions:
 
-A. Install crx file (see here for [instructions](http://www.howtogeek.com/120743/how-to-install-extensions-from-outside-the-chrome-web-store/) on installing crx files: )
+A. Install crx file (see here for [instructions](http://www.howtogeek.com/120743/how-to-install-extensions-from-outside-the-chrome-web-store/) on installing crx files)
 
 B. A green haaretz icon would appear in your browser toolbar.
 
