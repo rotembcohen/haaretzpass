@@ -12,7 +12,7 @@ Highlights:
 
 Instructions:
 
-A. Install crx file (see here for instructions on installing crx files)
+A. Install crx file (see here for [instructions](http://www.howtogeek.com/120743/how-to-install-extensions-from-outside-the-chrome-web-store/) on installing crx files: )
 
 B. A green haaretz icon would appear in your browser toolbar.
 
@@ -24,4 +24,4 @@ You can leave the icon on even after leaving the haaretz website, it has permiss
 
 This code has no malware or any data collecting sh*t. 
 
-This has started as a modification of the chrome extenstion User-Agent Switcher (available on https://chrome.google.com/webstore/detail/user-agent-switcher/lkmofgnohbedopheiphabfhfjgkhfcgf?hl=en ) but almost none of its code remains.
+This has started as a modification of the chrome extenstion [User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher/lkmofgnohbedopheiphabfhfjgkhfcgf?hl=en) but almost none of its code remains.
