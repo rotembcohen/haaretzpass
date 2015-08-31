@@ -1,7 +1,16 @@
-# haaretzpass
+# HaaretzPass
+
+By RBC
+
 Switches User-Agent string to pass Haaretz payment wall
 
-This is a chrome extension I've made that disables the annoying payment wall on Haaretz website by changing the browser's user agent. I've made this last night after getting frustrated with all the other solutions for this that are available online.
+This is a chrome extension I've made that disables the annoying payment wall on Haaretz website by changing the browser's user agent. I've made this after getting frustrated with all the other solutions for this that are available online.
+
+Highlights:
+
+- Permissions only on haaretz URLs. Browsing other websites would be unchanged
+
+- Easily disabled and re-enabled
 
 Instructions:
 
