@@ -11,6 +11,6 @@
    "minimum_chrome_version": "17.0",
    "name": "Haaretz Pass",
    "icons": {"128": "icon-big.png"},
-   "permissions": [ "webRequest", "webRequestBlocking", "*://*.haaretz.*/*" ],
-   "version": "1.1"
+   "permissions": [ "webRequest", "webRequestBlocking", "*://*.haaretz.com/*", "*://*.haaretz.co.il/*" ],
+   "version": "1.2"
 }

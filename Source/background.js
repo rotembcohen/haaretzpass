@@ -24,7 +24,7 @@ if (UA != null) {
 setUA('Googlebot/2.1 (+http://www.googlebot.com/bot.html)', 'Googlebot (Google\'s spider)');
 chrome.browserAction.setIcon({ path: ('icon-active.png') });    
 
-chrome.webRequest.onBeforeSendHeaders.addListener(handler, {urls: ["*://*.haaretz.*/*"]},  ["blocking", "requestHeaders"]);
+chrome.webRequest.onBeforeSendHeaders.addListener(handler, {urls: ["*://*.haaretz.com/*","*://*.haaretz.co.il/*"]},  ["blocking", "requestHeaders"]);
 chrome.browserAction.onClicked.addListener(
     function () {
         if(UA == null) {
