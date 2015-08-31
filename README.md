@@ -4,24 +4,24 @@ Switches User-Agent string to pass Haaretz payment wall
 
 This is a chrome extension I've made that disables the annoying payment wall on Haaretz website by changing the browser's user agent. I've made this after getting frustrated with all the other solutions for this that are available online.
 
-Highlights:
+**Highlights:**
 
 - Permissions only on haaretz URLs. Browsing other websites would be unchanged
 
 - Easily disabled and re-enabled
 
-Instructions:
+**Instructions:**
 
-A. Install crx file (see here for [instructions](http://www.howtogeek.com/120743/how-to-install-extensions-from-outside-the-chrome-web-store/) on installing crx files)
+A. Install crx file (see [instructions](http://www.howtogeek.com/120743/how-to-install-extensions-from-outside-the-chrome-web-store/) on installing crx files)
 
-B. A green haaretz icon would appear in your browser toolbar.
+B. A green Haaretz icon would appear in your browser toolbar.
 
 C. Go to haaretz website and enter a subscriptions-only article (marked by a grey key icon). If you already were in an Haaretz webpage when you activated the extension, you should refresh the page.
 
 D. Enjoy!
 
-You can leave the icon on even after leaving the haaretz website, it has permissions only for haaretz urls. Anyway, you can disable it anytime by clicking it.
-
 This code has no malware or any data collecting sh*t. 
 
-This has started as a modification of the chrome extenstion [User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher/lkmofgnohbedopheiphabfhfjgkhfcgf?hl=en) but almost none of its code remains.
+**Credits:**
+
+This has started as a modification of the chrome extenstion [User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher/lkmofgnohbedopheiphabfhfjgkhfcgf?hl=en).
