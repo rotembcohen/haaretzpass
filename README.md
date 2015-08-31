@@ -6,8 +6,8 @@ This is a chrome extension I've made that disables the annoying payment wall on 
 
 **Highlights:**
 
-- Permissions only on haaretz URLs. Browsing other websites would be unchanged
-
+- No configuration required
+- Permissions only on haaretz URLs, Browsing other websites would be unchanged
 - Easily disabled and re-enabled
 
 **Instructions:**
