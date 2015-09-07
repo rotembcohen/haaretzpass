@@ -35,4 +35,4 @@ A: Make sure you have the latest chrome version and that the crx file isn't corr
 
 Q: I still can't see Haaretz premium articles
 
-A: Make sure the extension was installed (green icon appears in toolbar) and that you do not use any other extensions that change the browser's user-agent configuration
+A: Make sure the extension was installed (green icon ![green icon](https://github.com/rotembcohen/haaretzpass/blob/master/Source/icon-active.png) appears in toolbar) and that you do not use any other extensions that change the browser's user-agent configuration
