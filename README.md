@@ -13,7 +13,7 @@ This is a chrome extension I've made that disables the annoying payment wall on 
 
 **Instructions:**
 
-A. Download and install crx file (open [Extensions Page](chrome://extensions) on Chrome, drag and drop the file)
+A. Download and install the crx file (open chrome://extensions on Chrome, drag and drop the file)
 
 B. A green Haaretz icon would appear in your browser toolbar.
 
@@ -30,7 +30,9 @@ This has started as a modification of the chrome extenstion [User-Agent Switcher
 **F.A.Q**
 
 Q: I get "crx_magic_number_invalid" error
+
 A: Make sure you have the latest chrome version and that the crx file isn't corrupt
 
 Q: I still can't see Haaretz premium articles
+
 A: Make sure the extension was installed (green icon appears in toolbar) and that you do not use any other extensions that change the browser's user-agent configuration
