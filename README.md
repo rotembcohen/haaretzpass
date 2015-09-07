@@ -13,13 +13,15 @@ This is a chrome extension I've made that disables the annoying payment wall on 
 
 **Instructions:**
 
-A. Download and install the crx file (open chrome://extensions on Chrome, drag and drop the file)
+A. Download the crx file (you don't need the Source folder)
 
-B. A green Haaretz icon would appear in your browser toolbar.
+B. Install it in Chrome (open chrome://extensions, drag and drop the file).
 
-C. Go to haaretz website and enter a premium article (marked by a grey key icon). If you already were in an Haaretz webpage when you activated the extension, you should refresh the page.
+C. A green Haaretz icon would appear in your browser toolbar.
 
-D. Enjoy!
+D. Go to haaretz website and enter a premium article (marked by a grey key icon). If you already were in an Haaretz webpage when you installed the extension, you should refresh the page.
+
+E. Enjoy!
 
 This code has no malware or any data collecting sh*t. 
 
@@ -36,3 +38,7 @@ A: Make sure you have the latest chrome version and that the crx file isn't corr
 Q: I still can't see Haaretz premium articles
 
 A: Make sure the extension was installed (green icon ![green icon](https://github.com/rotembcohen/haaretzpass/blob/master/Source/icon-active.png) appears in toolbar) and that you do not use any other extensions that change the browser's user-agent configuration
+
+Q: Still not working
+
+A: Contact rotembcohen@gmail.com (thanks!)
