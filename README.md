@@ -13,7 +13,7 @@ This is a chrome extension I've made that disables the annoying payment wall on 
 
 **Instructions:**
 
-A. Download the crx file (you don't need the Source folder)
+A. [Download](https://github.com/rotembcohen/haaretzpass/releases/download/1.0/HaaretzPass.crx) the crx file (you don't need the Source folder)
 
 B. Install it in Chrome (open chrome://extensions, drag and drop the file).
 
