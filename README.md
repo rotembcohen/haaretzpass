@@ -1,6 +1,6 @@
 # HaaretzPass
 
-[![Download](https://raw.githubusercontent.com/rotembcohen/haaretzpass/master/download_btn.jpg)](https://github.com/rotembcohen/haaretzpass/releases/download/1.0/HaaretzPass.crx)
+[![Download](http://static1.squarespace.com/static/53cfd7ebe4b07647985da19f/t/543efe51e4b01fa79711a842/1413414482099/download-now-button.png)](https://github.com/rotembcohen/haaretzpass/releases/download/1.0/HaaretzPass.crx)
 
 Switches User-Agent string to pass Haaretz payment wall
 
