@@ -1,5 +1,7 @@
 # HaaretzPass
 
+[![Download](https://raw.githubusercontent.com/rotembcohen/haaretzpass/master/download_btn.png)](https://github.com/rotembcohen/haaretzpass/releases/download/1.0/HaaretzPass.crx)
+
 Switches User-Agent string to pass Haaretz payment wall
 
 This is a chrome extension I've made that disables the annoying payment wall on Haaretz website by changing the browser's user agent. I've made this after getting frustrated with all the other solutions for this that are available online.
@@ -28,6 +30,7 @@ This code has no malware or any data collecting sh*t.
 **Credits:**
 
 This has started as a modification of the chrome extenstion [User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher/lkmofgnohbedopheiphabfhfjgkhfcgf?hl=en).
+Download button taken from [freepik](http://www.freepik.com/).
 
 **F.A.Q**
 
