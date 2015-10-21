@@ -30,7 +30,6 @@ This code has no malware or any data collecting sh*t.
 **Credits:**
 
 This has started as a modification of the chrome extenstion [User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher/lkmofgnohbedopheiphabfhfjgkhfcgf?hl=en).
-Download button taken from [freepik](http://www.freepik.com/).
 
 **F.A.Q**
 
