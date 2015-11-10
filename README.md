@@ -43,4 +43,4 @@ A: Make sure the extension was installed (green icon ![green icon](https://githu
 
 Q: Still not working
 
-A: Contact rotembcohen@gmail.com (thanks!)
+A: You can now use [Bot Goggles](https://chrome.google.com/webstore/detail/bot-goggles/ngjkdgoakggajahecaampdihpmjmnkdp/) instead, which can be downloaded directly from Google Web Store for free. Check out its [git page](https://github.com/rotembcohen/botgoggles) for source code and info. Contact rotembcohen@gmail.com (thanks!)
