@@ -33,14 +33,21 @@ This has started as a modification of the chrome extenstion [User-Agent Switcher
 
 **F.A.Q**
 
+Q: I can't install extensions that aren't from the Google store
+
+A: You can now use [Bot Goggles](https://chrome.google.com/webstore/detail/bot-goggles/ngjkdgoakggajahecaampdihpmjmnkdp/) instead, which can be downloaded directly from Google Web Store for free. Check out its [git page](https://github.com/rotembcohen/botgoggles) for source code and info. 
+
 Q: I get "crx_magic_number_invalid" error
 
 A: Make sure you have the latest chrome version and that the crx file isn't corrupt
 
 Q: I still can't see Haaretz premium articles
 
-A: Make sure the extension was installed (green icon ![green icon](https://github.com/rotembcohen/haaretzpass/blob/master/Source/icon-active.png) appears in toolbar) and that you do not use any other extensions that change the browser's user-agent configuration
+A: Make sure that:
+1. You're not logged in as a free Haaretz user. Haaretz website would block you if you've passed the free articles limit. Just sign out and the extension would work. (Thanks, Nir!)
+2. The extension was installed (green icon ![green icon](https://github.com/rotembcohen/haaretzpass/blob/master/Source/icon-active.png) appears in toolbar).
+3. That you do not use any other extensions that change the browser's user-agent configuration
 
 Q: Still not working
 
-A: You can now use [Bot Goggles](https://chrome.google.com/webstore/detail/bot-goggles/ngjkdgoakggajahecaampdihpmjmnkdp/) instead, which can be downloaded directly from Google Web Store for free. Check out its [git page](https://github.com/rotembcohen/botgoggles) for source code and info. Contact rotembcohen@gmail.com (thanks!)
+A: Contact rotembcohen@gmail.com (thanks!)
