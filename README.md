@@ -44,8 +44,11 @@ A: Make sure you have the latest chrome version and that the crx file isn't corr
 Q: I still can't see Haaretz premium articles
 
 A: Make sure that:
+
 1. You're not logged in as a free Haaretz user. Haaretz website would block you if you've passed the free articles limit. Just sign out and the extension would work. (Thanks, Nir!)
+
 2. The extension was installed (green icon ![green icon](https://github.com/rotembcohen/haaretzpass/blob/master/Source/icon-active.png) appears in toolbar).
+
 3. That you do not use any other extensions that change the browser's user-agent configuration
 
 Q: Still not working
