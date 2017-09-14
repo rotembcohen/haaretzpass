@@ -12,5 +12,9 @@
    "name": "Haaretz Pass",
    "icons": {"128": "icon-big.png"},
    "permissions": [ "webRequest", "webRequestBlocking", "*://*.haaretz.com/*", "*://*.haaretz.co.il/*" ],
+   "content_scripts" : [{
+      "matches": ["*://*.haaretz.com/*", "*://*.haaretz.co.il/*"],
+      "js": ["content.js"]
+    }],
    "version": "1.2"
 }
